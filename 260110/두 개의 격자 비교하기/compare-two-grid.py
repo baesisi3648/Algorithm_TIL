@@ -3,7 +3,7 @@ n, m = map(int,input().split())
 arr_1=[]
 arr_2=[]
 
-for _ in range(n):
+for _ in range(m):
     raw_data = list(map(int, input().split()))
     arr_1.append(raw_data)
 
